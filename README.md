@@ -16,4 +16,4 @@ It offers you the opportunity to:
 
 ===========================================================
 
-📌 join us on  : https://discord.gg/wRqJ5nqY4f ```
+📌 join us on discord : https://discord.gg/wRqJ5nqY4f ```
